@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Fira Code';
+  background-color: lightgrey !important;
+}
+
+html {
+  margin: 0;
+  background-color: lightcoral;
+}
+
+.jumbotron-fluid {
+  background-color: slategrey;
+}
+
+.credit {
+  font-size: .1rem;
+}
+
+.choices:hover {
+  background-color: #10C3DF !important;
+  cursor: pointer;
+}
+
+.pass {
+  background-color: green;
+}
+
+.fail {
+  background-color: red;
+}
+
+.neutral {
+  background-color: transparent;
+}
+
+.footer {
+  background-color: lightgrey;
+}
+
+.container-fluid {
+  background-color: lightgrey;
+}
